@@ -72,8 +72,3 @@ I'm a **full-stack developer** from **Lebanon** 🇱🇧, always curious and pas
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaynabmama&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
